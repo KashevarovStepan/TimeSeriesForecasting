@@ -1,5 +1,5 @@
-datasetExtended - данные за 5 лет
-forecast - прогноз
+resources/datasetExtended - данные за 5 лет
+resources/forecast - прогноз
 caine10 - статья
 __________________________________
 19.05
